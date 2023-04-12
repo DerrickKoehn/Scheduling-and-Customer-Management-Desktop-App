@@ -296,12 +296,6 @@ namespace SoftwareII.Classes
             mySqlCommand.ExecuteNonQuery();
 
 
-
-
-
-
-
-
         }
         public static void updateCustomer(Customer customer)
         {
